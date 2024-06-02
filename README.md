@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Juan David Cardona 👋
+
+## Something about me
+
+
+
+## Some of my stats are:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matosr96)](https://github.com/matosr96/github-readme-stats)
+
+
 
 <!--
 **JuanCardona16/JuanCardona16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
