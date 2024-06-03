@@ -3,9 +3,9 @@
   <p>A passionate software developer from colombia</p>
 </div>
 
-### Something about me
+<h3 align="center">Something about me</h3>
 
-I am a Frontend developer with experience in working with React and TypeScript on the front-end, and Node.js, TypeScript on the back-end. I primarily use MongoDB as my database, but I also have experience with MySQL. I am a software engineering student. I am from Colombia and currently serve as a Junior developer at Real Vision Enterprise. My goal is to continue developing my skills and experience in the technology field to provide high-quality solutions for my clients. 
+I'm a Frontend Developer, specializing in working with React and TypeScript, and have also dabbled in backend development with NodeJS, Express and TypeScript. I have a particular affinity for MongoDB as my database of choice, although I also have solid experience with MySQL. As a software engineering student and native Colombian, I currently bring my skills to the role of Junior Developer at Real Vision Enterprise. I am in a constant process of learning and growth, currently improving my English level. My goal is persistent: to continue cultivating my skills and experiences in the technological field, in order to provide high quality solutions for my clients and stay at the forefront of technological innovation. 
 
 <div align="center">
   
@@ -16,18 +16,6 @@ I am a Frontend developer with experience in working with React and TypeScript o
 🎯 My main goal is to improve my technical and soft skills. As well as my English level. 
 
 </div>
-
-<hr/>
-
-<h2 align="center">Some technologies i use ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql" /><br>
-</div>
-
-### Contant me
-
-
 
 <div align="center"> 
   <a href="mailto:jcardonabageth@gmail.com">
@@ -41,12 +29,33 @@ I am a Frontend developer with experience in working with React and TypeScript o
   </a>
 </div>
 
-<hr/
+<hr/>
+
+<h2 align="center">Some technologies i use ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nextjs,mysql" /><br>
+</div>
+
+<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-JuanCardona16.vercel.app/?user=JuanCardona&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-JuanCardona16.vercel.app/api?username=JuanCardona16&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-JuanCardona16.vercel.app/api/top-langs/?username=JuanCardona16&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+<div align="center">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=JuanCardona16&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="streak stats"/>
 </div>
+
+<div align="center">
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanCardona16&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&layout=compact" alt="streak stats"/>
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JuanCardona16&theme=nord&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
+</div>
+
+
+
+
+
+
+
