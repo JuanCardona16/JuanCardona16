@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>Hi there, I'm Juan David Cardona 👋</h1>
-  <p>A passionate software developer from colombia</p>
+  <h1>Hola. soy Juan David Cardona 👋</h1>
+  <p>Un apasionado del desarrollo de software</p>
 </div>
 
-<h3 align="center">Something about me</h3>
+<h3 align="center">Sobre mi</h3>
 
-I'm a Frontend Developer, specializing in working with React and TypeScript, and have also dabbled in backend development with NodeJS, Express and TypeScript. I have a particular affinity for MongoDB as my database of choice, although I also have solid experience with MySQL. As a software engineering student and native Colombian, I currently bring my skills to the role of Junior Developer at Real Vision Enterprise. I am in a constant process of learning and growth, currently improving my English level. My goal is persistent: to continue cultivating my skills and experiences in the technological field, in order to provide high quality solutions for my clients and stay at the forefront of technological innovation. 
+Soy un desarrollador frontend, especializado en trabajar con React y TypeScript, y también he incursionado en el desarrollo backend con NodeJS, Express y TypeScript. Tengo una afinidad particular por MongoDB como mi base de datos de elección, aunque también tengo una sólida experiencia con MySQL. Como estudiante de ingeniería de software y colombiano nativo, actualmente aporto mis habilidades al rol de Desarrollador Junior. Estoy en un constante proceso de aprendizaje y crecimiento, actualmente mejorando mi nivel de inglés. Mi meta es persistente: continuar cultivando mis habilidades y experiencias en el campo tecnológico, con el fin de brindar soluciones de alta calidad para mis clientes y mantenerme a la vanguardia de la innovación tecnológica.
 
 <div align="center">
   
