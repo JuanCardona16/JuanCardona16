@@ -11,7 +11,8 @@
 
 <div align="center">
   
-🌱 I’m currently learning <img src="https://skillicons.dev/icons?i=docker,aws,py" />
+🌱 I’m currently learning 
+    <img src="https://skillicons.dev/icons?i=docker,aws,py" />
 
 🧩 I’m looking to collaborate on with interesting projects. 
 
