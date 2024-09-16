@@ -5,7 +5,9 @@
 
 <h3 align="center">Sobre mi</h3>
 
-Soy un desarrollador de software, especializado en trabajar con React y TypeScript en el frontend, y también he incursionado en el desarrollo backend con NodeJS, Express y TypeScript. Tengo una afinidad particular por MongoDB como mi base de datos de elección, aunque también tengo experiencia trabajando con MySQL. Como estudiante de ingeniería de software y colombiano nativo, actualmente aporto mis habilidades al rol de Desarrollador Junior. Estoy en un constante proceso de aprendizaje y crecimiento, actualmente me encuentro mejorando mi habilidades y mi nivel de inglés. Mi meta es persistente: continuar cultivando mis habilidades y experiencias en el campo tecnológico, con el fin de brindar soluciones de alta calidad para mis clientes y mantenerme a la vanguardia de la innovación tecnológica, siempre aprendiendo cosas nuevas en el camino.
+<p align="justify">
+  Soy un desarrollador de software, especializado en trabajar con React y TypeScript en el frontend, y también he incursionado en el desarrollo backend con NodeJS, Express y TypeScript. Tengo una afinidad particular por MongoDB como mi base de datos de elección, aunque también tengo experiencia trabajando con MySQL. Como estudiante de ingeniería de software y colombiano nativo, actualmente aporto mis habilidades al rol de Desarrollador Junior. Estoy en un constante proceso de aprendizaje y crecimiento, actualmente me encuentro mejorando mi habilidades y mi nivel de inglés. Mi meta es persistente: continuar cultivando mis habilidades y experiencias en el campo tecnológico, con el fin de brindar soluciones de alta calidad para mis clientes y mantenerme a la vanguardia de la innovación tecnológica, siempre aprendiendo cosas nuevas en el camino.
+</p>
 
 <div align="center">
   
