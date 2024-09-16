@@ -9,7 +9,7 @@ Soy un desarrollador de software, especializado en trabajar con React y TypeScri
 
 <div align="center">
   
-🌱 I’m currently learning **Docker, Supabase, AWS**
+🌱 I’m currently learning <img src="https://skillicons.dev/icons?i=docker,aws,py" />
 
 🧩 I’m looking to collaborate on with interesting projects. 
 
@@ -29,21 +29,17 @@ Soy un desarrollador de software, especializado en trabajar con React y TypeScri
   </a>
 </div>
 
-<hr/>
-
 <h2 align="center">Some technologies i use ⚒️</h2>
 <div align="center">
     <h2>Frontend</h2>
-    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,typescript" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,typescript,redux,nextjs" />
     <h2>Banckend</h2>
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,java,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,java,spring" />
     <h2>Database</h2>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
     <h2>Tools</h2>
     <img src="https://skillicons.dev/icons?i=vite,vscode,github,git,docker,discord,idea,npm,pnpm" />
 </div>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
