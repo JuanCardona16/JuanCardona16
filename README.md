@@ -5,7 +5,7 @@
 
 <h3 align="center">Sobre mi</h3>
 
-Soy un desarrollador frontend, especializado en trabajar con React y TypeScript, y también he incursionado en el desarrollo backend con NodeJS, Express y TypeScript. Tengo una afinidad particular por MongoDB como mi base de datos de elección, aunque también tengo una sólida experiencia con MySQL. Como estudiante de ingeniería de software y colombiano nativo, actualmente aporto mis habilidades al rol de Desarrollador Junior. Estoy en un constante proceso de aprendizaje y crecimiento, actualmente mejorando mi nivel de inglés. Mi meta es persistente: continuar cultivando mis habilidades y experiencias en el campo tecnológico, con el fin de brindar soluciones de alta calidad para mis clientes y mantenerme a la vanguardia de la innovación tecnológica.
+Soy un desarrollador de software, especializado en trabajar con React y TypeScript en el frontend, y también he incursionado en el desarrollo backend con NodeJS, Express y TypeScript. Tengo una afinidad particular por MongoDB como mi base de datos de elección, aunque también tengo experiencia trabajando con MySQL. Como estudiante de ingeniería de software y colombiano nativo, actualmente aporto mis habilidades al rol de Desarrollador Junior. Estoy en un constante proceso de aprendizaje y crecimiento, actualmente me encuentro mejorando mi habilidades y mi nivel de inglés. Mi meta es persistente: continuar cultivando mis habilidades y experiencias en el campo tecnológico, con el fin de brindar soluciones de alta calidad para mis clientes y mantenerme a la vanguardia de la innovación tecnológica, siempre aprendiendo cosas nuevas en el camino.
 
 <div align="center">
   
@@ -33,8 +33,14 @@ Soy un desarrollador frontend, especializado en trabajar con React y TypeScript,
 
 <h2 align="center">Some technologies i use ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nextjs,mysql" /><br>
+    <h2>Frontend</h2>
+    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,typescript" />
+    <h2>Banckend</h2>
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,java,spring" /><br>
+    <h2>Database</h2>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /><br>
+    <h2>Tools</h2>
+    <img src="https://skillicons.dev/icons?i=vite,vscode,github,git,docker,discord,idea,npm,pnpm" />
 </div>
 
 <hr/>
