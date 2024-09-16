@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hola. soy Juan David Cardona 👋</h1>
+  <h1>Hola!, Soy Juan David Cardona 👋</h1>
   <p>Un apasionado del desarrollo de software</p>
 </div>
 
